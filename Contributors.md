@@ -7,7 +7,7 @@
 - [KMJUN](https://github.com/KMJUN)
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
 - [Puneet Bindal](https://github.com/rockstar777)
-- [Sanket Nadgir](https://githu.com/nadgirsanket)
+- [Sanket Nadgir](https://github.com/nadgirsanket)
 - [Ami Davis](https://github.com/idaslaptya)
 - [Lucas Paganini](https://github.com/LucasPaganini)
 - [Manish Nagdevani](https://github.com/manish-nagdevani)
@@ -1893,3 +1893,4 @@
 - [Riley Chetwood](https://github.com/rchetwood)
 - [James Huang](https://github.com/jamespeace)
 - [Thakur Karthik](https://github.com/ThakurKarthik)
+- [IbnElhadj Mohamed Ibrahim 🐱‍💻](https://github.com/barhouum7)
